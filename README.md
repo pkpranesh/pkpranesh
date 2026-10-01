@@ -17,7 +17,7 @@
 | 🏥 Diabetes Risk Predictor | Logistic Regression · Streamlit | [Demo](https://diabetes-predictor-ml-app-pkp.streamlit.app/) |
 | 🏠 House Price Predictor | Linear Regression · Streamlit | [Demo](https://house-price-predictor-by-pkp.streamlit.app/) |
 | 🏆 Kaggle Titanic | XGBoost · Voting Ensemble | 0.784 Score |
-| S.P.A.C.E | Full Stack · ML | [Demo](#)
+| S.P.A.C.E | Full Stack · ML | [Demo](https://space-client.vercel.app/)
 
 ---
 
