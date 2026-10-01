@@ -12,11 +12,12 @@
 | Project | Tech Stack | Live Demo |
 |---------|-----------|-----------|
 | 🤖 AI Document Q&A (RAG) | ChromaDB · Gemini · Streamlit | [Demo](#) |
-| 📄 AI Resume Analyzer | Gemini API · Streamlit | [Demo](#) |
-| 🏦 Credit Risk Predictor | XGBoost · Random Forest | [Demo](#) |
-| 🏥 Diabetes Risk Predictor | Logistic Regression · Streamlit | [Demo](#) |
-| 🏠 House Price Predictor | Linear Regression · Streamlit | [Demo](#) |
+| 📄 AI Resume Analyzer | Gemini API · Streamlit | [https://resume-analyzer-pkp.streamlit.app/](#) |
+| 🏦 Credit Risk Predictor | XGBoost · Random Forest | [https://credit-risk-predictor-with-decision-tree-kpbfqqkpg8q9n2xkyevzq.streamlit.app/](#) |
+| 🏥 Diabetes Risk Predictor | Logistic Regression · Streamlit | [https://diabetes-predictor-ml-app-pkp.streamlit.app/](#) |
+| 🏠 House Price Predictor | Linear Regression · Streamlit | [https://house-price-predictor-by-pkp.streamlit.app/](#) |
 | 🏆 Kaggle Titanic | XGBoost · Voting Ensemble | 0.784 Score |
+| S.P.A.C.E | Full Stack · ML | [Demo](#)
 
 ---
 
@@ -63,7 +64,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranesh-pk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pp0383@srmist.edu.in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](YOUR_PORTFOLIO_URL)
 
