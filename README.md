@@ -51,3 +51,24 @@
 ---
 
 ## 🎯 Currently Learning
+✅ RAG Systems (Done!)
+✅ LLM APIs (Done!)
+🔄 AI Agents (LangChain)
+🔄 Deep Learning (CNN)
+📅 MLOps (Docker + FastAPI)
+📅 Fine-tuning LLMs (LoRA)
+
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pp0383@srmist.edu.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pkpranesh&color=blue" />
+</p>
