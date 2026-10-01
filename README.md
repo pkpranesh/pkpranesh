@@ -12,10 +12,10 @@
 | Project | Tech Stack | Live Demo |
 |---------|-----------|-----------|
 | 🤖 AI Document Q&A (RAG) | ChromaDB · Gemini · Streamlit | [Demo](#) |
-| 📄 AI Resume Analyzer | Gemini API · Streamlit | [https://resume-analyzer-pkp.streamlit.app/](#) |
-| 🏦 Credit Risk Predictor | XGBoost · Random Forest | [https://credit-risk-predictor-with-decision-tree-kpbfqqkpg8q9n2xkyevzq.streamlit.app/](#) |
-| 🏥 Diabetes Risk Predictor | Logistic Regression · Streamlit | [https://diabetes-predictor-ml-app-pkp.streamlit.app/](#) |
-| 🏠 House Price Predictor | Linear Regression · Streamlit | [https://house-price-predictor-by-pkp.streamlit.app/](#) |
+| 📄 AI Resume Analyzer | Gemini API · Streamlit | [Demo](https://resume-analyzer-pkp.streamlit.app/) |
+| 🏦 Credit Risk Predictor | XGBoost · Random Forest | [Demo](https://credit-risk-predictor-with-decision-tree-kpbfqqkpg8q9n2xkyevzq.streamlit.app/) |
+| 🏥 Diabetes Risk Predictor | Logistic Regression · Streamlit | [Demo](https://diabetes-predictor-ml-app-pkp.streamlit.app/) |
+| 🏠 House Price Predictor | Linear Regression · Streamlit | [Demo](https://house-price-predictor-by-pkp.streamlit.app/) |
 | 🏆 Kaggle Titanic | XGBoost · Voting Ensemble | 0.784 Score |
 | S.P.A.C.E | Full Stack · ML | [Demo](#)
 
